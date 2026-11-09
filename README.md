@@ -2,7 +2,7 @@
 # Incumbency Advantage in U.S. House Elections: A Regression Discontinuity Replication of Lee (2008)
 
 Project assignment in Applied Microeconometrics, HSE University (St. Petersburg), April 2026.
-polynomial_fits.png
+![Image](polynomial_fits.png)
 
 ## Overview
 
